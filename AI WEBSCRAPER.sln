@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AI WEBSCRAPER", "AI WEBSCRAPER.pyproj", "{F90C62A0-7AD6-428B-A98D-9E27717EC72C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F90C62A0-7AD6-428B-A98D-9E27717EC72C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90C62A0-7AD6-428B-A98D-9E27717EC72C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {405F2A67-E02C-4D00-9E32-E092745D30C6}
+	EndGlobalSection
+EndGlobal
